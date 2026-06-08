@@ -1,8 +1,7 @@
 streamlit
-pandas
-plotly
-pillow
-ultralytics
 torch
 torchvision
-opencv-python-headless
+timm==1.0.15
+ultralytics
+pillow
+numpy
